@@ -1,0 +1,18 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.arrow-container {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  margin: auto;
+}
+
+.arrow {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  transition: transform 0.2s;
+}
