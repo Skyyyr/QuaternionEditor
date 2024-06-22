@@ -9,7 +9,7 @@ To use the Quaternion Editor, follow these steps:
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/your-username/QuaternionEditor.git
+git clone https://github.com/Skyyyr/QuaternionEditor.git
 ```
 
 ### Step 2: Navigate to the project directory
